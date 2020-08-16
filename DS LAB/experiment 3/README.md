@@ -34,4 +34,5 @@ mid=( first + last )/2
 => if keyvalue is greater then mid value ,we use mid+1
 => at last in output we enter the element it to be found it gives its index or array value
 =>  if the element is not in the list of the array its gives notfound or error
+# output obtained
 
