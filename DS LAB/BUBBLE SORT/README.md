@@ -49,5 +49,6 @@ Every element with its adjacent element and swaps at last it prints
 27,34,84
 ![12345](https://user-images.githubusercontent.com/69143780/90981879-21460400-e581-11ea-983c-00153a00d794.jpeg)
 ![WhatsApp Image 2020-08-23 at 8 10 01 PM](https://user-images.githubusercontent.com/69143780/90981908-55212980-e581-11ea-8454-7a9d0f4f85fb.jpeg)
+![WhatsApp Image 2020-08-23 at 8 10 00 PM](https://user-images.githubusercontent.com/69143780/90981927-813caa80-e581-11ea-9417-121de71e8126.jpeg)
 
 
