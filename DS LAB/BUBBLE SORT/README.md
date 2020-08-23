@@ -48,5 +48,6 @@ Here the array elements 84,34,27  as the program first it checks if it is sorted
 Every element with its adjacent element and swaps at last it prints
 27,34,84
 ![12345](https://user-images.githubusercontent.com/69143780/90981879-21460400-e581-11ea-983c-00153a00d794.jpeg)
+![WhatsApp Image 2020-08-23 at 8 10 01 PM](https://user-images.githubusercontent.com/69143780/90981908-55212980-e581-11ea-8454-7a9d0f4f85fb.jpeg)
 
 
