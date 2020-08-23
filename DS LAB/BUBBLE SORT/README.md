@@ -47,5 +47,6 @@ Every element with its adjacent element and swaps at last it prints 1,2,3,4,5,6,
 Here the array elements 84,34,27  as the program first it checks if it is sorted or not . if the given array is not sorted it is called as bubble sort function. and it the function checks the condition  for each and
 Every element with its adjacent element and swaps at last it prints
 27,34,84
+![12345](https://user-images.githubusercontent.com/69143780/90981879-21460400-e581-11ea-983c-00153a00d794.jpeg)
 
 
